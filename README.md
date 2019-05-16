@@ -1,2 +1,7 @@
 # hello-world
-ola jajsajs prueba 1
+Hola amigos asjasjdjsajsa
+
+Soy el Buen Ruben Alias "Robusto", y la verdad, no sé qué hago con mi vida XDDDDd
+
+Baaiiii
+System.out.printl("Adios jaja");
